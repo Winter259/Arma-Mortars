@@ -16,14 +16,14 @@ Instructions:
 * Adjust the settings as required in Mortars\MOR_Settings.sqf
 * Place a trigger in the editor and include the following:
 
-PLACEHOLDER FOR IMAGE1
+https://imgur.com/ct3Xwed
 
 This is the trigger where the mortars will fall, a random position is selected per mortar within the trigger.
 Condition:
 
   MOR_Mortars_Can_Start
 
-You can add any number of other conditions via &&
+You can add any number of other conditions via the use of the && logic operator
   
 On ACT:
 
@@ -33,7 +33,7 @@ The MORTARID is a custom integer (not neccesarily 1 like the example) set by the
 
 * If you want to disable the trigger mortars after they start, place a trigger with the following:
 
-PLACEHOLDER FOR IMAGE2
+https://imgur.com/GKMqyWD
 
 Syntax:
 

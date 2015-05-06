@@ -12,7 +12,10 @@ Features:
 
 Instructions:
 * Place the Mortars folder in your mission folder.
-* Add the following line to your init.sqf: null = [] execVM "Mortars\MOR_Compile.sqf";
+* Add the following line to your init.sqf:
+
+null = [] execVM "Mortars\MOR_Compile.sqf";
+
 * Adjust the settings as required in Mortars\MOR_Settings.sqf
 * Place a trigger in the editor and include the following:
 
